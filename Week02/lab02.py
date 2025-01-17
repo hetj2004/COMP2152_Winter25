@@ -33,7 +33,6 @@ def main():
         print(f"Error {e}")
 
 
-# Hello
 
 
 # Run the game
